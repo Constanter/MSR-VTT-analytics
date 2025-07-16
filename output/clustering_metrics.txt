@@ -1,0 +1,2 @@
+Silhouette Score: 0.0562
+Davies-Bouldin Index: 3.1774
